@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Fátima Méndez
 
-<!--
-**fttm-mdz/fttm-mdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos Jr, enfocada en Python, SQL y visualización de datos para convertir mis resultados en soluciones reales. Me gusta combinar análisis cuantitativo con creatividad para entender mejor los problemas y encontrar respuestas prácticas.
 
-Here are some ideas to get you started:
+Estoy fortaleciendo mis habilidades técnicas y me encanta compartir lo que aprendo mediante proyectos y colaboraciones. Mi objetivo es el crecimiento constante como analista de datos en el sector tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologías y herramientas
+
+- Python | pandas | NumPy | Matplotlib
+- SQL | Git | Jupyter Notebooks
+- Herramientas de visualización: Tableau
+
+---
+
+## 🚀 Proyectos Destacados
+
+---
+
+## 📫 Cómo contactarme
+
+- LinkedIn: [fatima-linkedin](www.linkedin.com/in/fátima-méndez-aguilera-247b92295)
+- Email: ff.mm.aa@outlook.com y mendezaguilera2@gmail.com
+---
+
+## 📈 ![Mis estadísticas]([https://github-readme-stats.vercel.app/api?username=FatimaMendez&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight))
+
+
+¡Gracias por visitar mi perfil! 😊
