@@ -24,7 +24,4 @@ Estoy fortaleciendo mis habilidades técnicas y me encanta compartir lo que apre
 - Email: ff.mm.aa@outlook.com y mendezaguilera2@gmail.com
 ---
 
-## 📈 ![Mis estadísticas]([https://github-readme-stats.vercel.app/api?username=FatimaMendez&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight))
-
-
 ¡Gracias por visitar mi perfil! 😊
