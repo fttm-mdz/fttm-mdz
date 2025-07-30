@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Fátima Méndez
+# ¡Hola! 👋 Soy Fátima
 
 Analista de datos Jr, enfocada en Python, SQL y visualización de datos para convertir mis resultados en soluciones reales. Me gusta combinar análisis cuantitativo con creatividad para entender mejor los problemas y encontrar respuestas prácticas.
 
@@ -22,6 +22,7 @@ Estoy fortaleciendo mis habilidades técnicas y me encanta compartir lo que apre
 
 - LinkedIn: [fatima-linkedin] (www.linkedin.com/in/fátima-méndez-aguilera-247b92295)
 - Email: ff.mm.aa@outlook.com y mendezaguilera2@gmail.com
+- Tableau: https://public.tableau.com/app/profile/f.tima.m.ndez1338/vizzes
 ---
 
 ¡Gracias por visitar mi perfil! 😊
