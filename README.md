@@ -20,7 +20,7 @@ Estoy fortaleciendo mis habilidades técnicas y me encanta compartir lo que apre
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [fatima-linkedin] (www.linkedin.com/in/fátima-méndez-aguilera-247b92295)
+- LinkedIn: [fatima-linkedin] (www.linkedin.com/in/fatimamendez-dataanalyst)
 - Email: ff.mm.aa@outlook.com y mendezaguilera2@gmail.com
 - Tableau: https://public.tableau.com/app/profile/f.tima.m.ndez1338/vizzes
 ---
