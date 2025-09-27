@@ -2,7 +2,7 @@
 
 ## ⚡ Analista de Datos
 
-Soy **Analista de Datos** con experiencia en **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), **SQL** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white), **Excel** ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) y **Tableau** ![Tableau](https://img.shields.io/badge/-Tableau-FF6F61?style=flat-square&logo=tableau&logoColor=white), aplicados en **limpieza, análisis exploratorio, modelado y visualización de datos**.
+Soy **Analista de Datos** con experiencia en **Python**, **SQL**, **Excel** y **Tableau**, aplicados en **limpieza, análisis exploratorio, modelado y visualización de datos**.
 
 ## 🌟 Habilidades y Experiencia
 
