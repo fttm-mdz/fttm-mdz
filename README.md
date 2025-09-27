@@ -27,9 +27,11 @@ Mi propuesta de valor está en la combinación de habilidades técnicas y experi
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [fatima-linkedin] (www.linkedin.com/in/fatimamendez-dataanalyst)
-- Email: ff.mm.aa@outlook.com y mendezaguilera2@gmail.com
-- Tableau: https://public.tableau.com/app/profile/f.tima.m.ndez1338/vizzes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimamendez-dataanalyst)
+[![Email Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ff.mm.aa@outlook.com)
+[![Email Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendezaguilera2@gmail.com)
+[![Tableau Public](https://img.shields.io/badge/Tableau-FF6F61?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/f.tima.m.ndez1338/vizzes)
+
 ---
 
 ¡Gracias por visitar mi perfil! 😊
