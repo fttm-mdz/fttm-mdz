@@ -1,8 +1,21 @@
 # ¡Hola! 👋 Soy Fátima
 
-Soy Analista de Datos con formación en Python (pandas, matplotlib, seaborn), SQL, Excel y Tableau, aplicados en la limpieza, análisis exploratorio, modelado y visualización de datos para transformar información en hallazgos claros y accionables. Cuento con nivel intermedio de inglés (B1) y experiencia en áreas administrativas y legales, donde desarrollé pensamiento crítico, organización y atención al detalle, habilidades que fortalecen mi trabajo en proyectos de análisis.
+## 💻 Analista de Datos
 
-Mi propuesta de valor está en la combinación de habilidades técnicas y experiencia multidisciplinaria, que me permite comprender tanto la perspectiva estratégica como la operativa, generando soluciones efectivas basadas en datos que contribuyen a la optimización de procesos y a la toma de decisiones informadas.
+Soy **Analista de Datos** con experiencia en **Python** (pandas, matplotlib, seaborn), **SQL**, **Excel** y **Tableau**, aplicados en **limpieza, análisis exploratorio, modelado y visualización de datos** para transformar información en hallazgos claros y accionables.
+
+## 🌐 Habilidades y Experiencia
+
+- Nivel intermedio de inglés (B1)  
+- Experiencia en áreas **administrativas y legales**, desarrollando pensamiento crítico, organización y atención al detalle  
+- Capacidad para combinar **habilidades técnicas** con experiencia multidisciplinaria, entendiendo la perspectiva estratégica y operativa
+
+## 🚀 Propuesta de valor
+
+Mi propuesta de valor está en generar **soluciones efectivas basadas en datos**, optimizando procesos y apoyando la **toma de decisiones informadas**. Combino análisis, visualización y pensamiento crítico para entregar resultados claros y accionables.
+
+---
+
 
 ---
 
