@@ -1,21 +1,18 @@
 # ¡Hola! 👋 Soy Fátima
 
-## 💻 Analista de Datos
+## ⚡ Analista de Datos
 
-Soy **Analista de Datos** con experiencia en **Python** (pandas, matplotlib, seaborn), **SQL**, **Excel** y **Tableau**, aplicados en **limpieza, análisis exploratorio, modelado y visualización de datos** para transformar información en hallazgos claros y accionables.
+Soy **Analista de Datos** con experiencia en **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), **SQL** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white), **Excel** ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) y **Tableau** ![Tableau](https://img.shields.io/badge/-Tableau-FF6F61?style=flat-square&logo=tableau&logoColor=white), aplicados en **limpieza, análisis exploratorio, modelado y visualización de datos**.
 
-## 🌐 Habilidades y Experiencia
+## 🌟 Habilidades y Experiencia
 
 - Nivel intermedio de inglés (B1)  
 - Experiencia en áreas **administrativas y legales**, desarrollando pensamiento crítico, organización y atención al detalle  
-- Capacidad para combinar **habilidades técnicas** con experiencia multidisciplinaria, entendiendo la perspectiva estratégica y operativa
+- Capacidad para combinar **habilidades técnicas** con experiencia multidisciplinaria
 
 ## 🚀 Propuesta de valor
 
-Mi propuesta de valor está en generar **soluciones efectivas basadas en datos**, optimizando procesos y apoyando la **toma de decisiones informadas**. Combino análisis, visualización y pensamiento crítico para entregar resultados claros y accionables.
-
----
-
+Genero **soluciones efectivas basadas en datos**, optimizando procesos y apoyando la **toma de decisiones informadas**. Combino análisis, visualización y pensamiento crítico para entregar resultados claros y accionables.
 
 ---
 
@@ -30,21 +27,10 @@ Mi propuesta de valor está en generar **soluciones efectivas basadas en datos**
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 [![Análisis y visualización de datos](https://img.shields.io/badge/Análisis_y_visualización-FFA500?style=for-the-badge)](#)
 
-
-
 ---
+## 💌 ¡Gracias por visitar mi perfil!
 
-## 🚀 Proyectos Destacados
-
----
-
-## 📫 Cómo contactarme
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimamendez-dataanalyst)
-[![Email Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ff.mm.aa@outlook.com)
-[![Email Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendezaguilera2@gmail.com)
-[![Tableau Public](https://img.shields.io/badge/Tableau-FF6F61?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/f.tima.m.ndez1338/vizzes)
-
----
-
-¡Gracias por visitar mi perfil! 😊
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimamendez-dataanalyst)  
+[![Email Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ff.mm.aa@outlook.com)  
+[![Email Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendezaguilera2@gmail.com)  
+[![Tableau Public](https://img.shields.io/badge/-Tableau-FF6F61?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/f.tima.m.ndez1338/vizzes)
